@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_jhm_bxr_5r">
+  <title>Timeline</title>
+  <shortdesc>Plot-It allows users to view information in relation with its geographical and temporal
+    location. Users can manipulate the timeline for a better view of the data points. </shortdesc>
+  <refbody>
+    <section>
+      <title>General Information</title>
+      <p>The timeline lets users to view multiple events in time. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A9c4399b6-d016-4089-ae4e-efe189e8886c/datastream/OBJ/view"
+          id="image_sqg_cgs_5r" align="center" scale="85"/></p>
+    </section>
+    <section>
+      <title>Navigation</title>
+      <p>The timeline is divided into two sections. The upper section, the actual real estate of the timeline, is divided into years. The lower section, the main navigation instrument, is divided into decades. (See image below). 
+      </p>
+      <p>The navigational instrument of the timeline has a lighter column of space located in the
+        middle of the section. This lighter area represents the area shown in the upper timeline
+        section. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad3c47c9b-d04d-4aa5-9e0f-7f65841c088f/datastream/OBJ/view"
+          id="image_pfk_ybs_5r" align="center" scale="85"/></p>
+      <p>When you open the timeline,
+          it displays the most recent entries (2015). Users can navigate the timeline to different
+          years/decades in multiple ways. With their mouse or trackpad, users can manipulate the
+          timeline by clicking on one of the sections and moving it left or right. Moving either
+          section will move the entire timeline. Additionally, users can also scroll through the
+          timeline by hovering their mouse or trackpad over the timeline section they want to
+          manipulate and moving their finger from left to right or up to down (or vice versa).
+        </p>
+      <p>When using the bottom
+          section of the timeline, you will notice that there are small blue reference points on
+          that timeline. These represent the different data points found in the timeline. A blue
+          line in this section represents an event that covers a span of time. For example,
+          currently the longest blue line represents them span of time that the “Rossetti Archive
+          was Launched” (from 1993 to the early 2000s). </p>
+    </section>
+    <section>
+      <title>Making the timeline bigger</title>
+      <p>To increase the height, click on the small black arrow at the bottom of the timeline
+        (between the timeline and the map) and pull down (or up, if you would like to make the
+        timeline smaller).<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A3f63b6da-154e-4b41-bc16-1e6725a5fd77/datastream/OBJ/view"
+          id="image_azg_fcs_5r" align="center"/><note type="important">When you adjust the web page
+          to a different length, the lighter column does not stay centered (it remains where it was
+          previously situated unless you refresh the page once the size of the browser has been
+          adjusted). </note></p>
+    </section>
+  </refbody>
+  <related-links>    
+    <link href="Panel.dita"/>
+    <link href="Events.dita"/>
+    <link href="SearchReference.dita"/>    
+    <link href="Working%20with%20the%20timeline.dita"/>
+    <link href="View%20events.dita"/>
+    <link href="View%20events%20not%20in%20the%20map.dita"/>
+    <link href="Search%20Plot-It.dita"/>
+    <link href="Filter%20Date%20by%20event%20range.dita"/>
+    <link href="Filter%20by%20%22Event%20type%22.dita"/>
+    <link href="FilterByCountry.dita"/>
+    <link href="Reset%20Filters.dita"/>
+  </related-links>
+</reference>
