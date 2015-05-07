@@ -30,7 +30,9 @@
             </step>
             <step>
                 <cmd>Click on the events in the map. The user can then view the title and metadata
-                    of that event. </cmd>
+                    of that event in the text box between the timeline and map. When you click on an
+                    event in the map a small white bubble appears (this differentiates the event you
+                    have selected from the events around it).</cmd>
                 <info>
                     <p>The colour of the flags reflects different event types. Where there are
                         multiple events of the same type and occurring in the same location, they

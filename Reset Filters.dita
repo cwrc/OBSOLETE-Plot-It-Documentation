@@ -35,6 +35,8 @@
         <link href="Filter%20Date%20by%20event%20range.dita"/>
         <link href="Filter%20by%20%22Event%20type%22.dita"/>
         <link href="FilterByCountry.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
         <link href="Panel.dita"/>
         <link href="SearchReference.dita"/></related-links>
 </task>

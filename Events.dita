@@ -10,54 +10,46 @@
       <p>To view more information about an event, click on the label or icon visible in the timeline
         or map. </p>
       <p>Events are visible as a label/title accompanied with an icon (the colour of said icons
-        depend on the event type) in the timeline and as an icon in the map.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6ccc47bc-3a8c-431b-a542-35b60ea96381/datastream/OBJ/view"
+        depend on the event type) in the timeline and as an icon in the map. To learn more
+        information about the events, click on an icon in the timeline or map. The
+        metadata/description for that event will appear in the text box between the timeline and the
+        map. Users can then scroll through the information. When users click on an icon in the map
+        the timeline will scroll so that event is highlighted. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A4e78e780-6927-40b7-b8e4-aa95dcf6e6e7/datastream/OBJ/view"
           id="image_pg1_rft_5r" align="center" scale="85"/></p>
-      <p>To learn more information about the events, click on an icon in the timeline or map. The
-        metadata/description for that event will popup, and users are able to scroll through the
-        information. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac5fc5c7d-4eb5-488b-afb0-edb1e1dd2b9a/datastream/OBJ/view"
-          id="image_a1x_1gt_5r" align="center"/></p>
-      <p>When you click on one of these event points in the map, the timeline will move until that
-        event is visible. The informational popup will then appear in both the map and the timeline.
-        When you click on an event in the timeline, the map will move to the location of that event
-        and information popup for that event will appear in both the timeline and the map.<image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A290e5ece-6de0-4c47-99ba-e6193ffc2c73/datastream/OBJ/view"
-          id="image_tzl_fgt_5r" align="center" scale="85"/></p>
       <p>When you click on an icon that has multiple events, a popup with a list of those events
-        appear. The timeline will scroll to the event listed first in that grouping.<image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A72c3fdbf-9d7c-4666-a763-a441f7b903b9/datastream/OBJ/view"
+        appear. <image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A51e54c02-d4d2-4a70-928a-fa0789976986/datastream/OBJ/view"
           id="image_jzp_ngt_5r" align="center"/></p>
       <p>Users can also view events in a list or grid format (by changing the panel view to “List
         View” or “Grid View”). When using the grid view to look at events, the user is unable to
         read event description. <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab0dd24a1-b354-415f-9fb0-76d7ad33f06b/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
           id="image_f24_rgt_5r" align="center" scale="85"/></p>
       <p>If an event does not have a date attached to it, users cannot view that event in the
         timeline. If an event does not have a location attached to it, users cannot view that event
-        in the map. To view these event, there is an option located above the map on the right
+        in the map. To view these events, there is an option located above the map on the right
           side.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad19bff70-dd25-4b84-9e26-de7355b8cdcd/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A1ca66503-0400-49e2-9d0f-0a3fb1c0bec6/datastream/OBJ/view"
           id="image_hgs_wgt_5r" align="center"/></p>
-      <p>To view the events that are not listed, click on “16 results” to bring up a popup of the
-        missing results. You can scroll through the list of event until you see one you would like
+      <p>To view the events that are not listed, click on “17 results” to bring up a popup of the
+        missing results. You can scroll through the list of events until you see one you would like
         to look at, click on that event. This brings up a popup on the left side of the
           timeline.<image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A15ab0c81-5b94-4289-bbd9-467c0c69b18e/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A73cd1e32-6d7e-4249-9444-23a8dbd50854/datastream/OBJ/view"
           id="image_t5p_ght_5r" align="center" scale="85"/></p>
     </section>
     <section>
       <title>Metadata</title>
       <p>Each event contains metadata that informs the user about the event. This metadata includes
-        a label, date, location, country, description, and event type.</p>
+        a label, date, location, country, description, event type, and source information (generally
+        a URL).</p>
       <p>The metadata for events serve multiple purposes. The date situates events on the timeline.
         The location plots them on the map. The event type determines what colour of icon is
         assigned to it (see below). The label and description are searchable and describe the event
         for users. Events can also be filtered by its metadata, specifically date, event type and
         country. </p> <image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3Ac5fc5c7d-4eb5-488b-afb0-edb1e1dd2b9a/datastream/OBJ/view"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3A86f3ba78-8d58-4445-9ee5-13d9700eddd9/datastream/OBJ/view"
         align="center"/>
       <p>Users can only view the event type in the grid view or by looking at the colour of the icon
         associated with each event. The event types available for this version of Plot-It are:<ul

@@ -16,10 +16,10 @@
       <p>Users can view the search results in either the timeline or map. </p>
       <p>To view more information about the events users have searched for, select the icon or the
         event title to bring up the metadata associated with it. When the user clicks on the event
-        in the timeline or map, the popup will appear in both the timeline and the map. <image
-          placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d5512bd-c294-4d6a-96dc-6e16ca9e6488/datastream/OBJ/view"
-          id="image_d1f_5ws_5r" align="center" scale="85"/></p>
+        in the timeline or map, the information will appear in the text box located between the
+        timeline and the map.<image placement="break"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A19c08abb-f5ba-49a3-a0e8-d4fad09a5a4d/datastream/OBJ/view"
+          id="image_wq4_ycj_yr" align="center" scalefit="yes" scale="85"/></p>
     </section>
     <section>
       <title>Search filters</title>
@@ -57,10 +57,10 @@
       <p>When using the white arrows, you can change the position of them. For example, if the left
         arrow is on 1995 and you move the right arrow to the left of that, the right arrow becomes
         the left arrow (and vice versa). <image placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A9a444abf-f21b-467e-a24a-d255e74a0dd7/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A6782595b-521e-4ec4-b135-77da70d329b9/datastream/OBJ/view"
           id="image_cfd_wxs_5r" align="center" scale="85"/></p>
       <p>To reset the date range, either move the arrows back to the edges of the filter or select
-        “Reset All Filters” option above the map (see below).</p>
+        “Reset All Filters” option above the map.</p>
     </section>
     <section>
       <title>Event type</title>
@@ -75,7 +75,7 @@
         select multiple events types to narrow down the event found in Plot-It. Simply check
         multiple terms. The check box at the top of the “Event type” field tells the user how many
         of the filters have been checked.</p><image placement="break"
-        href="http://beta.cwrc.ca/islandora/object/cwrc%3A2fa2745c-57c1-46e1-9cda-af103ac65348/datastream/OBJ/view"
+        href="http://beta.cwrc.ca/islandora/object/cwrc%3Afd048c05-85f7-4751-91a3-514029be9b29/datastream/OBJ/view"
         id="image_ys4_cys_5r" align="center" scale="85"/>
       <p>The (grey) numbers listed beside the categories refers to how many events of that type are
         available in the timeline and map.</p>
@@ -92,8 +92,8 @@
           href="http://beta.cwrc.ca/islandora/object/cwrc%3A260f937b-bf98-4130-b300-ef2ac1c4c015/datastream/OBJ/view"
           id="image_ofn_lys_5r" align="center" scalefit="yes"/></p>
       <p>Once the user checks one of those options, the timeline and map will automatically narrow
-        down to the events that belong in that type category(ies). When using this facet, users can
-        select multiple countries to narrow down the event found in Plot-It. Simply check multiple
+        down to the events that belong in that  category(ies). When using this facet, users can
+        select multiple countries to narrow down events found in Plot-It. Simply check multiple
         terms. The check box at the top of the “Country” field tells the user how many of the
         filters have been checked.</p>
       <p>The (grey) numbers listed beside the country names refers to how many events from that

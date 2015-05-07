@@ -20,10 +20,10 @@
                             href="http://beta.cwrc.ca/islandora/object/cwrc%3A06729788-e366-4ff0-8aff-2f3144b64858/datastream/OBJ/view"
                             id="image_fpd_yrr_5r" align="center" scalefit="yes" scale="85"/><image
                             placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa5f97e3a-a920-4b02-899c-7cef195a72c0/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A11dac6ac-6ef1-41e4-8e20-3d4bdf686e30/datastream/OBJ/view"
                             id="image_q4p_bsr_5r" align="center" scalefit="yes" scale="85"/><image
                             placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa38b6ddd-f1bc-4855-9274-7860b1d5bf51/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
                             id="image_ikc_2sr_5r" align="center" scalefit="yes" scale="85"/></p>
                 </info>
             </step>
@@ -40,6 +40,8 @@
         <link href="Filter%20by%20%22Event%20type%22.dita"/>
         <link href="FilterByCountry.dita"/>
         <link href="Reset%20Filters.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
         <link href="Panel.dita"/>
     </related-links>
 </task>
