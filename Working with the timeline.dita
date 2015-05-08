@@ -12,7 +12,7 @@
                     <p>The timeline is divided into two sections. The upper section, the actual real
                         estate of the timeline, is divided into years. The lower section, the main
                         navigation instrument, is divided into decades.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A95d5e084-5adc-4fbf-acd5-57c943c13301/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A36ee28e2-268f-413e-b948-d25b5e180eb3/datastream/OBJ/view"
                             id="image_rqn_dzt_5r" align="center" scale="85"/></p>
                 </info>
             </step>
@@ -31,12 +31,13 @@
                 and they know it was founded in 1966. As this information is four decades away from
                 where the timeline is currently set, the user clicks on the lower timeline section
                 and moves it left to 1966.</p>
-            <p> The user finds the blue dot that could represent the data point they are looking for
+            <p>The user finds the blue dot that could represent the data point they are looking for
                 on the timeline and brings it into the white section of the lower timeline to focus
                 on it. They discover that is what they are looking for. </p>
             <p>Once the users finds the specific entry in the timeline, they can click on it to find
-                out more information. <image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3Afa1ee3eb-5042-4eea-9abf-d7f297f4b492/datastream/OBJ/view"
+                out more information. This information will be displayed in the text box located
+                below the timeline.<image placement="break"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A84098976-c71a-4700-be97-a0c0feca44de/datastream/OBJ/view"
                     id="image_ign_gzt_5r" align="center" scale="85"/></p>
             <p> </p>
         </example>
@@ -52,6 +53,8 @@
     <link href="Filter%20by%20%22Event%20type%22.dita"/>
     <link href="FilterByCountry.dita"/>
     <link href="Reset%20Filters.dita"/>
+    <link href="HideTimeline.dita"/>
+    <link href="HidePanel.dita"/>
     <link href="Timeline.dita"/>
     </related-links>
 </task>

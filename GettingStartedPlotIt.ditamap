@@ -13,4 +13,6 @@
  <topicref href="Filter%20by%20%22Event%20type%22.dita"/>
  <topicref href="FilterByCountry.dita"/>
  <topicref href="Reset%20Filters.dita"/>
+ <topicref href="HideTimeline.dita"/>
+ <topicref href="HidePanel.dita"/>
 </map>

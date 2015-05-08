@@ -3,7 +3,7 @@
 <task id="task_k2g_b5r_5r">
     <title>View events</title>
     <shortdesc>To learn more information about the events, click on an icon in the timeline or map.
-        The metadata/description for that event will popup, and users are able to scroll through the
+        The metadata/description for that event will appear in the text box located in the middle of Plot-It, and users are able to scroll through the
         information. </shortdesc>
     <taskbody>
         <steps>
@@ -12,29 +12,21 @@
                     like to know more about. </cmd>
             </step>
             <step>
-                <cmd>Click on that event to bring up a popup with more information about that event. </cmd>
+                <cmd>Click on that event to bring up the information about that event. </cmd>
                 <info>
                     <p>When you click on one of these event points in the map, the timeline will
-                        move until that event is visible. The informational popup will then appear
-                        in both the map and the timeline. When you click on an event in the
-                        timeline, the map will move to the location of that event and the
-                        information popup for that event will appear in both the timeline and the
-                        map. <image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A290e5ece-6de0-4c47-99ba-e6193ffc2c73/datastream/OBJ/view"
+                        move until that event is visible. The informational will then appear
+                        in the text box between the timeline and map. When you click on an event in the
+                        timeline, the map will move to the location of that event. <image placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A33c6ad78-3051-4306-9f07-dcfc672976ca/datastream/OBJ/view"
                             id="image_rqr_jwr_5r" align="center" scale="85"/></p>
                 </info>
             </step>
             <step>
                 <cmd>Scroll through the event metadata to learn more about that event. Each event
                     contains metadata that informs the user about the event. This metadata includes
-                    a label, date, location, country, description, and event type. </cmd>
-                <info importance="high">
-                    <p>In the
-                                map, do not use the smart feature of your mouse or trackpad to
-                                scroll through the event description, this will zoom in or out of
-                                the map and loose the popup. Users must manually scroll, by clicking
-                                on the scroller available in the popup.</p>
-                </info>
+                    a label, date, location, country, description, event type and source information. </cmd>
+
             </step>
         </steps>
     </taskbody>
@@ -49,6 +41,8 @@
         <link href="Filter%20by%20%22Event%20type%22.dita"/>
         <link href="FilterByCountry.dita"/>
         <link href="Reset%20Filters.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
         <link href="Timeline.dita"/>
         <link href="Panel.dita"/>
         <link href="Events.dita"/>

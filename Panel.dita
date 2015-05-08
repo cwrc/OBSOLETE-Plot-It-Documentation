@@ -17,7 +17,7 @@
           id="image_d51_5ms_5r" align="center" scale="85"/></p>
     </section>
     <section><title>Map view</title><p>The Map view is the default view of the events in the
-        timeline. Plot-It provides context to event by drawing out the geographical information of
+        timeline. Plot-It provides context to events by drawing out the geographical information of
         events and arranging them on the map. </p><p>The map is powered by Google maps. </p><p>Users
         can move the map around using either their cursor or the navigation button located in the
         top left corner of the map. </p><p>Users can zoom in/out of the map three ways. The first is
@@ -31,7 +31,7 @@
         “Map” and “Satellite” view. For further personalization, users can chooses to view the
         “Terrain” when in the “Map” view, and the “Labels” when in the Satellite view.</p><p>To
         change between these features, click on either the “Map” and “Satellite” options and then
-        check (or leave unchecked) the terrain/label option that pop up.<image placement="break"
+        check (or leave unchecked) the terrain/label option that pops up.<image placement="break"
           href="http://beta.cwrc.ca/islandora/object/cwrc%3Acb7f894a-fff0-4c7d-8ea6-a394a1a4b951/datastream/OBJ/view"
           id="image_sff_q4s_5r" align="center" scale="85"/></p><p>When using the map, you can switch
         to street view by dragging the person icon (located on the left side of the map) on to the
@@ -56,27 +56,23 @@
           <li>White: mixed<image placement="break"
               href="http://beta.cwrc.ca/islandora/object/cwrc%3A8656c6c3-7b4f-4798-a9b3-6a2b32a5434a/datastream/OBJ/view"
               id="image_dj3_dps_5r" align="center"/><p>Where there are multiple events of the same
-              type and occurring in the same location, they are grouped together (the mixed label).
-              </p><p>To learn more information about the events, click on an icon. The
-              metadata/description for that event will popup, and users are able to scroll through
-              the information. When you click on one of these event points in the map, the timeline
-              will move until that event is visible. The informational popup will then appear in
-              both the map and the timeline. When you click on an event in the timeline, the map
-              will move to the location of that event.<note type="important">In the map, do not use
-                the smart feature of your mouse or trackpad to scroll through the event description,
-                this will zoom in or out of the map and lose the popup. Users must manually scroll,
-                in event popups, by clicking on the scroller available in the popup.<image
-                  placement="break"
-                  href="http://beta.cwrc.ca/islandora/object/cwrc%3A17a50d57-6f72-4179-97f9-1c90b49e144d/datastream/OBJ/view"
+              type and occurring in the same location, they are grouped together (and display the
+              number events grouped there). </p><p>To learn more information about the events, click
+              on an icon. The metadata/description for that event will popup in the text box, and
+              users are able to scroll through the information. When you click on one of these event
+              points in the map, the timeline will move until that event is visible.  When you click
+              on an event in the timeline, the map will move to the location of that event.<note
+                type="important">In the map, do not use the smart feature of your mouse or trackpad
+                to scroll through the event description, this will zoom in or out of the map and
+                lose the popup. Users must manually scroll, in event popups, by clicking on the
+                scroller available in the popup.<image placement="break"
+                  href="http://beta.cwrc.ca/islandora/object/cwrc%3A51e54c02-d4d2-4a70-928a-fa0789976986/datastream/OBJ/view"
                   id="image_ocq_rps_5r" align="center"/></note></p><p>When you click on an icon that
-              has multiple events, a popup with the list of those results appear. The timeline will
-              scroll to the event listed first in that grouping. <image placement="break"
-                href="http://beta.cwrc.ca/islandora/object/cwrc%3Ad19bff70-dd25-4b84-9e26-de7355b8cdcd/datastream/OBJ/view"
-                id="image_xfw_yps_5r" align="center" scale="85"/></p><p>If you would like to view
-              the description of these events, click on them in the popup. This will produce another
-              popup with metadata information. </p><image placement="break"
-              href="http://beta.cwrc.ca/islandora/object/cwrc%3A11d6bcf9-fd9f-4ae8-83eb-dbaf98c5f0d6/datastream/OBJ/view"
-              id="image_wjk_dqs_5r" align="center"/></li>
+              has multiple events, the event icons will split into multiple icons. If you would like
+              to view the information select one of the icons and the information will appear in the
+              text box between the timeline and map.<image placement="break"
+                href="http://beta.cwrc.ca/islandora/object/cwrc%3A33c6ad78-3051-4306-9f07-dcfc672976ca/datastream/OBJ/view"
+                id="image_xfw_yps_5r" align="center" scale="85"/></p></li>
         </ul></p></section>
     <section>
       <title>List view</title>
@@ -88,8 +84,8 @@
         at the end of the page users have the option to see all results. By clicking on this option
         all the results are loaded on the page for the user to scroll through. <image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3Accb825db-40f9-49cb-9411-77816a3e76ae/datastream/OBJ/view"
-          id="image_syf_crs_5r" align="center" scalefit="yes"/></p>
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A11dac6ac-6ef1-41e4-8e20-3d4bdf686e30/datastream/OBJ/view"
+          id="image_tgr_rz3_yr" align="center" scale="85" scalefit="yes"/></p>
       <p>You can change the way that the list is organized by selecting how they are “sorted by.”
         The users can select multiple different categories to sort the list with. To add multiple
         sorting categories, select the “and then” option. this will continue to add sorting
@@ -142,7 +138,7 @@
         pointing up (and vice versa when pointing down). <note>If the event does not have a location
           or country attached to it, then it appears first in a list sorted by location or country
           and organized from a - z. <image placement="break"
-            href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab0dd24a1-b354-415f-9fb0-76d7ad33f06b/datastream/OBJ/view"
+            href="http://beta.cwrc.ca/islandora/object/cwrc%3A84704f93-85a6-4a57-814b-51250684e7e2/datastream/OBJ/view"
             id="image_f4k_2ss_5r" align="center" scale="85"/></note><note
           type="important">You cannot select any of the events when they are organized into the grid
           mode. As such, you cannot use the grid view to view the events on the timeline. This
@@ -162,5 +158,6 @@
     <link href="Filter%20by%20%22Event%20type%22.dita"/>
     <link href="FilterByCountry.dita"/>
     <link href="Reset%20Filters.dita"/>
+    <link href="HidePanel.dita"/>
   </related-links>
 </reference>

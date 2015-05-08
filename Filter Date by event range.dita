@@ -20,7 +20,7 @@
             <step>
                 <cmd>View the events that are between that date range in the timeline or the map.
                         <image placement="break"
-                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A9a444abf-f21b-467e-a24a-d255e74a0dd7/datastream/OBJ/view"
+                        href="http://beta.cwrc.ca/islandora/object/cwrc%3A6782595b-521e-4ec4-b135-77da70d329b9/datastream/OBJ/view"
                         id="image_jhj_bcr_5r" align="center" scale="85"/></cmd>
             </step>
         </steps>
@@ -36,6 +36,8 @@
         <link href="Filter%20by%20%22Event%20type%22.dita"/>
         <link href="FilterByCountry.dita"/>
         <link href="Reset%20Filters.dita"/> 
-        <link href="SearchReference.dita"/>    
+        <link href="SearchReference.dita"/> 
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
     </related-links>
 </task>

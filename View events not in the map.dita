@@ -7,17 +7,17 @@
     <taskbody>
         <steps>
             <step>
-                <cmd>Click on the “16 results” out of 137 cannot be plotted. This brings up a popup
-                    with the 16 events that are not listed in the map. </cmd>
+                <cmd>Click on the “17 results” out of 140 cannot be plotted. This brings up a popup
+                    with the 17 events that are not listed in the map. </cmd>
                 <info>
                     <p>When you click on the events in the popup, the metadata information is
                         displayed just to the left of the timeline. The timeline will not sync with
                         these events. If there is only one event without a location (e.g. once you
                         have conducted a search to narrow the results down), the popup will contain
                         the information of the event instead of a list. <image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa2d0ce38-ec0d-4293-b05e-d39d2eca1b87/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A1ca66503-0400-49e2-9d0f-0a3fb1c0bec6/datastream/OBJ/view"
                             id="image_kfr_5sr_5r" align="center"/><image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A75c6f2f9-c611-493f-ae2a-d18f0e3f3304/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A73cd1e32-6d7e-4249-9444-23a8dbd50854/datastream/OBJ/view"
                             id="image_ul2_zsr_5r" align="center"/></p>
                 </info>
             </step>
@@ -27,8 +27,9 @@
                     organize those events missing the location under “missing.” </cmd>
                 <info>
                     <p>It doesn’t matter if you choose to organize from a - z or z - a, the events
-                        missing a location will always be at the bottom.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A0451e31e-25f7-4344-80e1-75d3f7578309/datastream/OBJ/view"
+                        missing a location will always be under "m" for missing.<image
+                            placement="break"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Ab4b728a2-65fb-434b-ae86-f34e5c27e233/datastream/OBJ/view"
                             id="image_iym_gtr_5r" align="center" scale="85"/></p>
                 </info>
             </step>
@@ -41,7 +42,7 @@
                     <p>If you use this method of viewing those events without locations, you cannot
                         access the description in either the grid or the timeline (from the grid).
                             <image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Aa38b6ddd-f1bc-4855-9274-7860b1d5bf51/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A561b90a7-2ddb-4ef2-a3b3-5641f5fd46af/datastream/OBJ/view"
                             id="image_zkc_ptr_5r" align="center" scale="85"/></p>
                 </info>
             </step>
@@ -60,5 +61,7 @@
         <link href="Reset%20Filters.dita"/>
         <link href="Panel.dita"/>
         <link href="Events.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
     </related-links>
 </task>

@@ -22,13 +22,10 @@
                     prefer not to view the map you can change the view to list or grid views. (For
                     more information see the linked “Change View” page below). </cmd>
                 <info>
-                    <p>
-                           To view more information about the events the user has
-                                searched for, select the icon or the event title to bring up the
-                                metadata associated with it. When the user clicks on the event in
-                                the timeline or map, the popup will appear in both the timeline and
-                                the map. 
-                        </p>
+                    <p> To view more information about the events the user has searched for, select
+                        the icon or the event title to bring up the metadata associated with it.
+                        When the user clicks on the event in the timeline or map, the information
+                        will appear in the text box between the timeline and the map. </p>
                 </info>
             </step>
         </steps>
@@ -36,16 +33,11 @@
             <p>The user searches for the keyword "Turing."<image placement="break"
                     href="http://beta.cwrc.ca/islandora/object/cwrc%3A12e71999-81c6-4cad-a4f0-c77aba5817ef/datastream/OBJ/view"
                     id="image_nqr_fwq_5r" align="center"/></p>
-            <p> This narrows down the information to two entries. For more information about those
-                events, the user can click on the event with a location in either the timeline or
+            <p>This narrows down the information to one entry. For more information about that
+                event, the user can click on the event in either the timeline or
                 the map. <image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A3d5512bd-c294-4d6a-96dc-6e16ca9e6488/datastream/OBJ/view"
+                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A19c08abb-f5ba-49a3-a0e8-d4fad09a5a4d/datastream/OBJ/view"
                     id="image_mty_gwq_5r" align="center" scale="85"/></p>
-            <p>The other result does not have a location associated with it, so the user must click
-                on the “1 result out of 2 cannot be plotted” on the right side of the page above the
-                map. <image placement="break"
-                    href="http://beta.cwrc.ca/islandora/object/cwrc%3A58f01fb9-ff95-481b-8a2d-a4bb84eb1d22/datastream/OBJ/view"
-                    id="image_z2q_3wq_5r" align="center" outputclass=""/></p>
             
         </example>
     </taskbody>
@@ -61,5 +53,7 @@
         <link href="FilterByCountry.dita"/>
         <link href="Reset%20Filters.dita"/> 
         <link href="SearchReference.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
     </related-links>
 </task>

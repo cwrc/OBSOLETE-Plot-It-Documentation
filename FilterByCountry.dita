@@ -33,7 +33,7 @@
                         automatically narrow down the results to the events that belong in that
                         category(ies). The map legend will also narrow down to only thoses event
                         types that are in the countries you have selected.<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A031a6d87-0437-4198-bd6f-c5ec062a8a8a/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A47021476-db6f-4eb0-a6ca-b1a1745bc390/datastream/OBJ/view"
                             id="image_dwt_rvt_5r" align="center" scale="85"/></p>
                 </info>
             </step>
@@ -57,6 +57,8 @@
         <link href="Filter%20Date%20by%20event%20range.dita"/>
         <link href="Filter%20by%20%22Event%20type%22.dita"/>
         <link href="Reset%20Filters.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
         <link href="Panel.dita"/>
         <link href="SearchReference.dita"/> 
         

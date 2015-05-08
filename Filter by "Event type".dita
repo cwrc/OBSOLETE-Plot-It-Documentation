@@ -31,7 +31,7 @@
                     <p>Once the users checks one of these options, the timeline and map will
                         automatically narrow down the results to events that belong in that
                             category(ies).<image placement="break"
-                            href="http://beta.cwrc.ca/islandora/object/cwrc%3A2fa2745c-57c1-46e1-9cda-af103ac65348/datastream/OBJ/view"
+                            href="http://beta.cwrc.ca/islandora/object/cwrc%3Afd048c05-85f7-4751-91a3-514029be9b29/datastream/OBJ/view"
                             id="image_ir2_5br_5r" align="center" scale="85"/></p>
                 </info>
             </step>
@@ -56,5 +56,7 @@
         <link href="FilterByCountry.dita"/>
         <link href="Reset%20Filters.dita"/> 
         <link href="SearchReference.dita"/>
+        <link href="HideTimeline.dita"/>
+        <link href="HidePanel.dita"/>
     </related-links>
 </task>

@@ -8,13 +8,14 @@
     <section>
       <p>To get started in Plot-It we suggest you familiarize yourself with the tool.<image
           placement="break"
-          href="http://beta.cwrc.ca/islandora/object/cwrc%3A9a444abf-f21b-467e-a24a-d255e74a0dd7/datastream/OBJ/view"
+          href="http://beta.cwrc.ca/islandora/object/cwrc%3A7070ebc7-c0bb-4106-8e42-3d85aeb5741a/datastream/OBJ/view"
           id="image_ujr_qyt_5r" align="center" scale="85"/></p>
-      <p>Plot-It is composed of a SIMILE Widgets timeline and a Google map. Users can browse and
-        filter the events using the options on the left side of the pages. Users can also search for
-        different events in the timeline and the map.<note>If the entered events do not have place
-          metadata they do not show up on the map. If there is no date attached to the event, it
-          will not be available in the timeline. </note></p>
+      <p>Plot-It is composed of a SIMILE Widgets timeline, a text box to view the event metadata,
+        and a Google map. Users can browse and filter the events using the options on the left side
+        of the pages. Users can also search for different events in the timeline and the
+          map.<note>If the entered events do not have place metadata they do not show up on the map.
+          If there is no date attached to the event, it will not be available in the timeline.
+        </note></p>
       <p>
         <note importance="urgent" type="important">For the moment Plot-It is optimized only for
           FireFox and Chrome. </note>
@@ -36,5 +37,7 @@
     <link href="Panel.dita"/>
     <link href="Events.dita"/>
     <link href="SearchReference.dita"/>
+    <link href="HideTimeline.dita"/>
+    <link href="HidePanel.dita"/>
   </related-links>
 </reference>
